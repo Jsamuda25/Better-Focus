@@ -1,0 +1,28 @@
+body{
+    background-color: #f5f5f5;
+}
+
+.login-page-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1{
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #487fcd;
+    margin-bottom: 1rem;
+}
+
+button{
+    background: #487fcd;
+    border-radius: 5px ;
+    color: white
+}
+#notepad{
+    width:30%;
+    height:30%
+}

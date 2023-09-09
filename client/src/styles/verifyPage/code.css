@@ -1,0 +1,15 @@
+.code-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    font-size: small;
+    margin: 1rem;
+    border: 2px solid;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border-color: #3145c5;
+    
+
+}

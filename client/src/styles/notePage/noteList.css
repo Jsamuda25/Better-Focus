@@ -1,0 +1,7 @@
+.note-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 75%;
+    gap: 1.5rem;
+}

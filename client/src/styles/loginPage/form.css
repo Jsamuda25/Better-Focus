@@ -1,0 +1,14 @@
+.login-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
+
+#register-link{
+    color: black;
+}
+
+#sign-in{
+    background-color: rgb(78, 145, 222);
+}

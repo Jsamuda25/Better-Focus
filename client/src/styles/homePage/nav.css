@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+
+.nav{
+    text-decoration: none;
+    background-color: rgb(16, 145, 220);
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+        
+}
+
+
+li{
+    list-style: none;
+   
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    padding: 1rem;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}

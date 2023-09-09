@@ -1,0 +1,15 @@
+.registration-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+
+}
+
+p{
+    text-align: center;
+}
+
+#sign-up{
+    background-color: rgb(78, 145, 222);
+}
