@@ -28,7 +28,7 @@ function Note({note, username}){
     }
 
     return(
-        <div className='card' ref={textRef}>
+        <div className='note' ref={textRef}>
             <h3>{note.title} - {note.category}</h3>
             <p id='paragraph'>{note.content}</p>
             <button onClick={deleteNote}>Delete</button>
