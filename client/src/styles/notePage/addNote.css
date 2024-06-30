@@ -8,11 +8,12 @@
     margin-top: 20px;
     margin-bottom: 20px;
     gap: 1rem;
-    border: 1px solid;
+    border: 2px solid;
     border-radius: 10px;
+    border-color: rgb(215, 124, 45);
     padding: 20px;
     width: 100%;
-    background-color: rgb(79, 194, 230);
+    background-color: rgb(240, 240, 240);
 }
 .submit-container{
     width: 80%;

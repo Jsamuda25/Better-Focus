@@ -12,7 +12,7 @@ import Cards from './pages/cardsPage/index.jsx'
 import './App.css'
 function App() {
   return (
-    <div className="App">
+    <>
       <Routes>
         <Route path="*" element={<LoginPage/>} />
         <Route path="/register" element={<Registration/>} />
@@ -23,7 +23,7 @@ function App() {
         <Route path ="/todo" element = {<Todo/>} />
         <Route path ="/flashcards" element = {<Cards/>} />
       </Routes>
-    </div>
+    </>
   );
 }
 

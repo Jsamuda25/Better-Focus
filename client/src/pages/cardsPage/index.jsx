@@ -51,7 +51,7 @@ function Cards(){
 
     return(
         <>
-            <h2 id="flash-title"> Flaschards </h2>
+            <h2 id="flash-title"> Flashcards </h2>
             <form className='header' onSubmit ={handleSubmit}>
                 <div className='form-group'>
                     <label htmlFor='type'>Category</label>

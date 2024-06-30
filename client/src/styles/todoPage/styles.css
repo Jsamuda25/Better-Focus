@@ -3,8 +3,13 @@
     box-sizing: border-box;
   }
    */
+
+#root{
+  width: 100%;
+  height: 100%;
+}
 body{
-    background-color: rgb(65, 180, 214);
+    background-color: rgb(238, 187, 84);
 }
 .todo-container{
   display: flex;
