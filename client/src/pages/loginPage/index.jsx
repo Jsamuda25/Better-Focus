@@ -6,7 +6,7 @@ function LoginPage(){
     return(
         <div className="login-page-container">
             <img src="../../../icons/notepad.svg" id="notepad"></img>
-            <h1>StudyPal</h1>
+            <h1>Better Focus</h1>
             <Form/>
         </div>
     )

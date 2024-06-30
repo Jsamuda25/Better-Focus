@@ -18,7 +18,7 @@ function Home (){
         <Navbar user={user}/>
         <div className='home-container'>
             <h1>Welcome, {user.username}!</h1>
-            <p>This is StudyPal, your personal productivity and organization hub!</p>
+            <p>Better Focus, your personal productivity and organization hub!</p>
             <p>Here you can study flashcards, take notes, and manage your todo list.</p>
             <img src="../../../icons/checklist.svg" id="notepad"></img>
         </div>
